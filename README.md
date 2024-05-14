@@ -6,7 +6,9 @@
     <a href="https://web.facebook.com/khalidelnaghi/"><img src="https://img.shields.io/badge/facebook-%23E4415F?style=flat&logo=facebook&color=white&logoColor=blue&labelColor=white"/></a>
     <a href="https://www.instagram.com/khalidelnaghi"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
   </p>
-  
+
+    <img src="https://github.com/khalidelnaghi/khalidelnaghi/blob/master/image.jpg" align="right" width="25%"/>
+
 
 I'm a software developer who is passionate about creating technology to elevate people. Some technologies I enjoy working with include Javascript, tailwind, MUI, ReactJS, and Nextjs.
 
