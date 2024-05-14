@@ -14,7 +14,7 @@
 />
 <div> - I'm a software developer who is passionate about creating technology to elevate people. Some technologies I enjoy working with include Javascript, tailwind, MUI, ReactJS, and Nextjs.</div>
 <br/>
-<div>- 🔭 I'm a software developer at <a><img src="https://github.com/KhalidElnaghi/KhalidElnaghi/blob/main/company.jpg" style="margin-top:5px" width="60px"/></a>in Alexandria, Egypt </div>
+<div>- 🔭 I'm a software developer at <a> <img src="https://github.com/KhalidElnaghi/KhalidElnaghi/blob/main/company.jpg" style="margin-top:5px" width="60px"/> </a> in Alexandria, Egypt </div>
 <br/>
 <div>-💬 you can reach me at <a href="mailto:khalidelnaghii@gmail.com"> <img src="https://img.shields.io/badge/gmail-fff?style=flat&logo=gmail" /> </a></div>
        
