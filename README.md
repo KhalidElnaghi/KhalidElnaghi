@@ -3,7 +3,7 @@
 <p align="center">
     <a href="https://twitter.com/khalidelnaghii"><img src="https://img.shields.io/badge/twitter-%231FA1F1?style=flat&logo=twitter&logoColor=white"/></a>
     <a href="https://www.linkedin.com/in/khaidelnaghi/"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
-    <a href="https://web.facebook.com/khalidelnaghi/"><img src="https://img.shields.io/badge/facebook-%23E4415F?style=flat&logo=facebook&color=white&logoColor=blue&labelColor=white"/></a>
+    <a href="https://web.facebook.com/khalidelnaghi/" target="_blank"><img src="https://img.shields.io/badge/facebook-%23E4415F?style=flat&logo=facebook&color=white&logoColor=blue&labelColor=white"/></a>
     <a href="https://www.instagram.com/khalidelnaghi"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
   </p>
   
