@@ -7,10 +7,9 @@
     <a href="https://www.instagram.com/khalidelnaghi"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
   </p>
   
-//
 
 I'm a software developer who is passionate about creating technology to elevate people. Some technologies I enjoy working with include Javascript, tailwind, MUI, ReactJS, and Nextjs.
 
 - 🔭 I'm a software developer [@AlexApps](https://www.linkedin.com/company/alexandria-for-programming/?originalSubdomain=eg) in Alexandria, Egypt
-- 
-- 💬 you can reach me at  <a href="mailto:"khalidelnaghii@gmail.com"><img src="https://img.shields.io/badge/gmail-fff?style=flat&logo=gmail"/></a>
+- 💬 you can reach me at  <a href="mailto:khalidelnaghii@gmail.com"><img src="https://img.shields.io/badge/gmail-fff?style=flat&logo=gmail"/></a>
+
