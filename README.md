@@ -12,7 +12,7 @@
   height="25%"
   borderRadius="50px"
 />
-<div> - I'm a software developer who is passionate about creating technology to elevate people. Some technologies I enjoy working with include Javascript, tailwind, MUI, ReactJS, and Nextjs.</div>
+<div> - I'm a software developer passionate about creating technology to elevate people. Some technologies I enjoy working with are Javascript, Bootstrap, tailwind, MUI, Angular Material, Redux, ReactJS, Nextjs, and Angular.</div>
 <br/>
 <div style="height:100px,display:flex,align-items:base-line;align-items:center">- 🔭 I'm a frontend developer at <a href="https://www.linkedin.com/company/alexandria-for-programming?originalSubdomain=eg" target="_blank"><img src="https://github.com/KhalidElnaghi/KhalidElnaghi/blob/main/company.jpg" style="width:70px" /></a> in Alexandria, Egypt </div>
 <br/>
