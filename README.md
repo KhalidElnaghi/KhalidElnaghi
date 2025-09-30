@@ -16,7 +16,7 @@
 <br/>
 <div style="height:100px,display:flex,align-items:base-line;align-items:center">- 🔭 I'm a frontend developer at <a href="https://www.linkedin.com/company/alexandria-for-programming?originalSubdomain=eg" target="_blank"><img src="https://github.com/KhalidElnaghi/KhalidElnaghi/blob/main/company.jpg" style="width:70px" /></a> in Alexandria, Egypt </div>
 <br/>
-<div>-💬 you can reach me at <a href="mailto:khalidelnaghi.dev@gmail.com"> <img src="https://img.shields.io/badge/gmail-fff?style=flat&logo=gmail" /> </a></div>
+<div>-💬 you can reach me at khalidelnaghi.dev@gmail.com</div>
        
         
    
