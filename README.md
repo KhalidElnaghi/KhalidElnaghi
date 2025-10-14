@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Khalid Elnaghi 👋</h1>
 
 <p align="center">
-  <a href="https://twitter.com/khalidelnaghii" target="_blank">
+  <a href="https://twitter.com/kelnaghii" target="_blank">
     <img src="https://img.shields.io/badge/twitter-%231FA1F1?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
   <a href="https://www.linkedin.com/in/khaidelnaghi/" target="_blank">
@@ -105,7 +105,7 @@ Feel free to reach out! I'm always open to discussing new projects, opportunitie
 
 📧 **Email**: khalidelnaghi.dev@gmail.com  
 🔗 **LinkedIn**: [Khalid Elnaghi](https://www.linkedin.com/in/khaidelnaghi/)  
-🐦 **Twitter**: [@khalidelnaghii](https://twitter.com/khalidelnaghii)
+🐦 **Twitter**: [@khalidelnaghii](https://twitter.com/kelnaghii)
 
 ---
 
