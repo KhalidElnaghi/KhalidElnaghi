@@ -109,9 +109,9 @@ Feel free to reach out! I'm always open to discussing new projects, opportunitie
 
 ---
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KhalidElnaghi&show_icons=true&theme=radical" alt="GitHub Stats"/>
-</p>
+</p> -->
 
 <p align="center">
   <em>Let's build something amazing together! 🚀</em>
