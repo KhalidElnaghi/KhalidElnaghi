@@ -1,118 +1,49 @@
-<h1 align="center">Hi, I'm Khalid Elnaghi 👋</h1>
+<a href="https://khalidelnaghi.dev">
+  <img src="https://khalidelnaghi.dev/og/en.png" alt="Khalid Elnaghi — Senior Frontend Engineer, Riyadh" width="100%" />
+</a>
 
-<p align="center">
-  <a href="https://twitter.com/kelnaghii" target="_blank">
-    <img src="https://img.shields.io/badge/twitter-%231FA1F1?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="https://www.linkedin.com/in/khaidelnaghi/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230177B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.instagram.com/khalidelnaghi" target="_blank">
-    <img src="https://img.shields.io/badge/instagram-%23E4415F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="mailto:khalidelnaghi.dev@gmail.com">
-    <img src="https://img.shields.io/badge/email-khalidelnaghi.dev@gmail.com-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
+## Hi, I'm Khalid
 
----
+Senior Frontend Engineer at **NCGR** in Riyadh.
 
-## 👨‍💻 About Me
+I write the layer between a good idea and the people who use it: interfaces that load fast, read clearly and keep their shape as products grow. I care about the details most people never notice, because that's where great products are made.
 
-I'm a passionate **Frontend Developer** with expertise in building modern, responsive, and user-centric web applications. I'm dedicated to creating technology that elevates user experiences and solves real-world problems. Currently working at **Alexandria for Programming** in Alexandria, Egypt.
+[khalidelnaghi.dev](https://khalidelnaghi.dev) · [LinkedIn](https://www.linkedin.com/in/khalidelnaghi/) · [X](https://x.com/kelnaghii) · [khalidelnaghi.dev@gmail.com](mailto:khalidelnaghi.dev@gmail.com)
 
-I thrive in collaborative environments and enjoy tackling complex UI challenges with clean, maintainable code.
+### Experience
 
----
+**NCGR** — Senior Frontend Engineer<br>
+<sub>Jun 2026 — Present · Riyadh · Angular</sub><br>
+Building interfaces for large government systems, where clarity, accessibility and code that stays maintainable for years matter as much as shipping fast.
 
-## 🛠️ Tech Stack
+**Prime Source Group** — Senior Frontend Engineer, part-time<br>
+<sub>May 2025 — Apr 2026 · React, Next.js</sub><br>
+Products for Hajj companies: their own operations platform and one for the pilgrims themselves, covering the whole journey from booking to arrival points and past the end of the season.
 
-### Core Technologies
-<p>
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-%231572B6?style=flat&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-%233178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript"/>
-</p>
+**AlexApps** — Frontend Engineer<br>
+<sub>Jan 2023 — Mar 2026 · React, Next.js</sub><br>
+Three years of turning product ideas into shipped web apps, owning features from the first component to production.
 
-### Frontend Frameworks & Libraries
-<p>
-  <img src="https://img.shields.io/badge/React-%2361DAFB?style=flat&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/Next.js-%23000000?style=flat&logo=next.js&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/Angular-%23DD0031?style=flat&logo=angular&logoColor=white" alt="Angular"/>
-</p>
+**Apps Square** — Frontend Intern<br>
+<sub>Sep 2021 — Feb 2022 · React</sub><br>
+Where it started.
 
-### State Management & Data Fetching
-<p>
-  <img src="https://img.shields.io/badge/Redux-%23764ABC?style=flat&logo=redux&logoColor=white" alt="Redux"/>
-  <img src="https://img.shields.io/badge/TanStack%20Query-%23FF4154?style=flat&logo=react-query&logoColor=white" alt="TanStack Query"/>
-  <img src="https://img.shields.io/badge/Zustand-%23000000?style=flat&logoColor=white" alt="Zustand"/>
-  <img src="https://img.shields.io/badge/Context%20API-%2361DAFB?style=flat&logoColor=white" alt="Context API"/>
-</p>
+### How I work
 
-### UI & Styling
-<p>
-  <img src="https://img.shields.io/badge/TailwindCSS-%2306B6D4?style=flat&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
-  <img src="https://img.shields.io/badge/Bootstrap-%237952B3?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-  <img src="https://img.shields.io/badge/Material%20UI-%23007FFF?style=flat&logo=mui&logoColor=white" alt="Material UI"/>
-  <img src="https://img.shields.io/badge/shadcn/ui-%23000000?style=flat&logoColor=white" alt="shadcn/ui"/>
-</p>
+- **Fast is a feature.** Performance is a decision from the first component: what loads now, what can wait, and what never needed JavaScript at all.
+- **Built for everyone.** Keyboards, screen readers, contrast, small screens and slow networks are part of the brief, not edge cases to patch after launch.
+- **Arabic and English, equally.** Right-to-left isn't a mirrored afterthought. Layout, type and numbers are designed for both languages from day one.
+- **Code the next person can read.** Clear structure, plain naming and pieces small enough to change without fear.
 
-### Tools & Development
-<p>
-  <img src="https://img.shields.io/badge/Storybook-%23FF69B4?style=flat&logo=storybook&logoColor=white" alt="Storybook"/>
-  <img src="https://img.shields.io/badge/Git-%23F05032?style=flat&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/npm-%23CB3837?style=flat&logo=npm&logoColor=white" alt="npm"/>
-</p>
+### Stack
+
+**Languages & frameworks** · TypeScript, JavaScript, HTML, CSS, React, Next.js, Angular, RxJS<br>
+**Styling & UI** · Tailwind CSS, Sass, MUI, Ant Design, shadcn/ui, Radix UI<br>
+**State & data** · Redux Toolkit, Zustand, TanStack Query, NgRx<br>
+**Forms** · React Hook Form, Angular Reactive Forms, Zod, Yup<br>
+**Testing** · Jest, Vitest, Cypress, Playwright<br>
+**Workflow** · Git, GitHub, Bitbucket, CI/CD, Jira, ClickUp, Figma
 
 ---
 
-## 💼 Professional Experience
-
-**Frontend Developer** @ Alexandria for Programming  
-📍 Alexandria, Egypt
-
-Working on building scalable and performant web applications with modern tech stack, focusing on creating seamless user experiences and writing clean, maintainable code.
-
----
-
-## 📚 Key Skills
-
-- **UI/UX Development**: Building responsive and accessible interfaces with attention to design details
-- **State Management**: Proficient with Redux, Zustand, and Context API for complex application states
-- **Data Fetching**: Expert with TanStack Query (React Query) for efficient server state management
-- **Component-Driven Development**: Building reusable components using Storybook and best practices
-- **Responsive Design**: Expertise with TailwindCSS, Bootstrap, and custom CSS for all device sizes
-- **Modern Frontend Stack**: Strong experience with React, Next.js, and TypeScript
-- **Framework Expertise**: Solid foundation with Angular and other modern frameworks
-
----
-
-## 🎯 What I'm Looking For
-
-I'm interested in roles that challenge me to grow as a developer, work with cutting-edge technologies, and contribute to projects that make a positive impact. I'm particularly drawn to opportunities where I can:
-
-- Build scalable frontend architectures
-- Collaborate with talented teams
-- Work on ambitious products that solve real problems
-- Continuously learn and evolve my technical skills
-
----
-
-## 📬 Get In Touch
-
-Feel free to reach out! I'm always open to discussing new projects, opportunities, or just having a chat about web development.
-
-📧 **Email**: khalidelnaghi.dev@gmail.com  
-🔗 **LinkedIn**: [Khalid Elnaghi](https://www.linkedin.com/in/khaidelnaghi/)  
-🐦 **Twitter**: [@khalidelnaghii](https://twitter.com/kelnaghii)
-
----
-
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KhalidElnaghi&show_icons=true&theme=radical" alt="GitHub Stats"/>
-</p> -->
-
-<p align="center">
-  <em>Let's build something amazing together! 🚀</em>
-</p>
+Have a role or a product in mind? I'd like to hear about it — [khalidelnaghi.dev@gmail.com](mailto:khalidelnaghi.dev@gmail.com).
