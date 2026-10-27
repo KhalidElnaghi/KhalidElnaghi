@@ -8,7 +8,7 @@ Senior Frontend Engineer at **NCGR** in Riyadh.
 
 I write the layer between a good idea and the people who use it: interfaces that load fast, read clearly and keep their shape as products grow. I care about the details most people never notice, because that's where great products are made.
 
-[khalidelnaghi.dev](https://khalidelnaghi.dev) · [LinkedIn](https://www.linkedin.com/in/khalidelnaghi/) · [X](https://x.com/kelnaghii) · [khalidelnaghi.dev@gmail.com](mailto:khalidelnaghi.dev@gmail.com)
+[khalidelnaghi.dev](https://khalidelnaghi.dev) · [LinkedIn](https://www.linkedin.com/in/khalidelnaghi/) · [khalidelnaghi.dev@gmail.com](mailto:khalidelnaghi.dev@gmail.com)
 
 ### Experience
 
